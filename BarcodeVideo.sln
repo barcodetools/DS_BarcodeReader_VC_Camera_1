@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BarcodeVideo", "BarcodeVideo.vcproj", "{42E894B0-2A1E-46CA-808E-31137108E85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E894B0-2A1E-46CA-808E-31137108E85C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42E894B0-2A1E-46CA-808E-31137108E85C}.Debug|Win32.Build.0 = Debug|Win32
+		{42E894B0-2A1E-46CA-808E-31137108E85C}.Release|Win32.ActiveCfg = Release|Win32
+		{42E894B0-2A1E-46CA-808E-31137108E85C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
